@@ -8,7 +8,7 @@
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/bhagavansprasad/agentic-ai-security.git
 cd agentic-ai-security
 
 # Install dependencies
